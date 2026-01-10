@@ -1,0 +1,2 @@
+# hailo
+hailo face recognition
